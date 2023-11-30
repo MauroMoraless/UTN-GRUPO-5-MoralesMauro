@@ -1,0 +1,10 @@
+.taskForm button {
+    padding: 5px 20px;
+    margin: 15px;
+    font: bold 0.6em sans-serif;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background: none;
+    cursor: pointer;
+    color: white;
+}

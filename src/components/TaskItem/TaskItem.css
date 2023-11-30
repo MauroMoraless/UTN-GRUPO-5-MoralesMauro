@@ -1,0 +1,19 @@
+.complete {
+    text-decoration: line-through;
+}
+
+.buttonDelete {
+    font: bold 0.6em sans-serif;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+
+.task {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid white;
+    margin: auto;
+}
